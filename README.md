@@ -4,11 +4,11 @@ This project showcases the integration of LangSmith tracking, prompt templates, 
 ### Prerequisites
 Before running the application, ensure the following tools and dependencies are installed:
 
-Python 3.11
-Streamlit: A fast way to build and share web apps.
-LangChain: A framework for building applications with large language models.
-Ollama: A library for working with LLMs.(llama3.2)
-dotenv: For managing environment variables.
+1. Python 3.11
+2. Streamlit: A fast way to build and share web apps.
+3. LangChain: A framework for building applications with large language models.
+4. Ollama: A library for working with LLMs.(llama3.2)
+5. dotenv: For managing environment variables.
 
 ### Features
 LLAMA3 Model Integration: Harness the power of the Ollama Llama3.2 model for question answering.
