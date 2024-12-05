@@ -11,7 +11,7 @@ Before running the application, ensure the following tools and dependencies are 
 5. dotenv: For managing environment variables.
 
 ### Features
-LLAMA3 Model Integration: Harness the power of the Ollama Llama3.2 model for question answering.
-LangChain Prompt Management: Utilize ChatPromptTemplate for structured interaction with the model.
-Streamlit UI: A lightweight web app for user interaction.
-LangSmith Tracking: Enables monitoring and tracking of the application’s performance.
+1. LLAMA3 Model Integration: Harness the power of the Ollama Llama3.2 model for question answering.
+2. LangChain Prompt Management: Utilize ChatPromptTemplate for structured interaction with the model.
+3. Streamlit UI: A lightweight web app for user interaction.
+4. LangSmith Tracking: Enables monitoring and tracking of the application’s performance.
